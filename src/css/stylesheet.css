@@ -1,0 +1,11 @@
+body{
+  background-color: lightgrey;
+}
+
+img {
+  max-width: 200px;
+}
+
+.mainContainer{
+  margin-top: 40px;
+}
